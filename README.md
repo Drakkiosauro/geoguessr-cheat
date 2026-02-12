@@ -10,14 +10,8 @@ pip install customtkinter mss pillow requests
 
 Coloque sua API Key do Google Gemini no código
 (linha: API_KEY = "sua-chave-aqui")
-Execute:
-
-Bashpython geosolver.py
-
-Coloque sua API Key do Google Gemini no código
-(linha: API_KEY = "sua-chave-aqui")
 
 Execute:
 
-python geosolver.py
+python geo.py
 
